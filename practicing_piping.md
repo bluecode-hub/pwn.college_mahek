@@ -214,7 +214,7 @@ learnt to write the output of one file into another file then read the content
 na
 
 
-13)## Challenge Name
+## Challenge Name
 split piping stderr and stdout
 ### Solve
 pwn.college{oT_nAuphHQKuAYKz3Sxk-c6Ebjt.dFDNwYDL5gDN1czW}
@@ -233,7 +233,7 @@ learnt the use of redirecting the content into two files and then using them
 na
 
 
-14)## Challenge Name
+## Challenge Name
 Named pipes
 ### Solve
 pwn.college{oXO-upWHhuBOJMhQ-_frwavYujP.QXzMzM4EDL5gDN1czW}
