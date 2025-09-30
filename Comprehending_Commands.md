@@ -99,6 +99,7 @@ na
 comparing files
 ### Solve
  pwn.college{AF2VKPHrgCTIfsz_YwF6ST_ggNS.QXzAzM4EDL5gDN1czW}
+ 
 went to the challenger directory and then did diff between the two file given
 
 ```bash
@@ -134,6 +135,7 @@ na
 touching files
 ### Solve
 pwn.college{w1VsDAWvagptkwT0ZQnCl0N1Dz7.dBzM4QDL5gDN1czW}
+
 touch and created the two files then ran the command
 
 ```bash
