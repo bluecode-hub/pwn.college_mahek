@@ -1,5 +1,6 @@
+#Module Name
 Digesting Documentation
-1)## Challenge Name
+## Challenge Name
 Learning from Documentation
 ### Solve
 pwn.college{QXwbAtP_cv5ku4QMfPFuPVebmIi.dRjM5QDL5gDN1czW}
@@ -16,7 +17,7 @@ learnt to pass the argument with the command
 ### References 
 na
 
-2)## Challenge Name
+## Challenge Name
 Learning Complex Usage
 ### Solve
 pwn.college{4fpvXhH9TO0whcOT0AP-u_0n6Nf.dVjM5QDL5gDN1czW}
@@ -33,7 +34,7 @@ we leant the usage of a aurgument  passing to find a particular word or syntax f
 ### References 
 na
 
-3)## Challenge Name
+## Challenge Name
 Reading Manuals
 ### Solve
 pwn.college{cYrCS-o5SkPyJnW4kwlvPnFRKXf.dRTM4QDL5gDN1czW}
@@ -51,7 +52,7 @@ we leant how to read a document with the man command also learnt about man an ar
 na
 
 
-4)## Challenge Name
+## Challenge Name
 Searching Manuals
 ### Solve
 pwn.college{wLkjylw26lIpIq6bLU0vz2SHiKD.dVTM4QDL5gDN1czW}
@@ -70,7 +71,7 @@ leant to surf through a manual
 na
 
 
-5)## Challenge Name
+## Challenge Name
 SEarching for Manuals
 ### Solve
 pwn.college{ots3uIMLC90I77hUJyAVarK44A6.dZTM4QDL5gDN1czW}
@@ -91,7 +92,7 @@ learnt to use the manual and get the requirment also lermt to use the versio of 
 na
 
 
-6)## Challenge Name
+## Challenge Name
 Helpful programs
 ### Solve
 pwn.college{gCl59Omx3tHXjcTDVw4hoSraKHo.ddjM4QDL5gDN1czW}
@@ -112,11 +113,13 @@ we learn how to use help instead of man
 na
 
 
-7)## Challenge Name
+## Challenge Name
 Help for Builtins
 ### Solve
 pwn.college{0WpMkio2mLm2WTWJy2_KEMoC6fw.dRTM5QDL5gDN1czW}
+
 used help challnege and then followed the instruction to the answer
+
 ```bash
 help challenge
 challenge --secret 0EpMkio2
