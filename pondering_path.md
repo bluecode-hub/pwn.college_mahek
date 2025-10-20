@@ -1,4 +1,4 @@
-POndering Path
+#POndering Paths
 ## Challenge Name
 The root
 ### Solve
@@ -23,7 +23,7 @@ na
 ## Challenge Name
 program and absolute paths
 ### Solve
-{AS46hH_bjcXPCh-pbuH6jYHHlpu.dVDN1QDL5gDN1czW}
+pwn.college{AS46hH_bjcXPCh-pbuH6jYHHlpu.dVDN1QDL5gDN1czW}
 
 the flag was in the absolute path so first i started with typing the / commands and the proceeding forward. the file was in /challenge/run
 
