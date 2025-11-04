@@ -403,6 +403,9 @@ instead of (p−1)(q−1).
 v1t{m0dul0_pr1z3}
 
 ### solve
+
+
+```bash
 import random
 
 inp = input("Enter plaintext: ")
@@ -430,17 +433,34 @@ while(key<100):
     if len(candidates) == 1:
         decoded.append(candidates[0])
     else:
-        # pick smallest printable if ambiguous (heuristic)
         decoded.append(candidates[0] if candidates else '?')
  print("".join(decoded))
  print(key)
  key=key+1
-
+```
 
 got few the first value and then saw other  comibation after that by bruteforcing that. this code is not the effecient ay has we get only the first match after i made other combinations and tried.
 
+# MIsc
 
+## polyglot
 
+### flag
+v1t{duck_l0v3_w4tch1ng_p2r3}
+### solve
+![Alt text](po.png)
+HideTheDuck123@
+we got fron thepdf that steghide then gor angri.jpg
+file unzip hot the picture and the ran the mp4 got the password crackerd the steghide file,
+
+```bash
+cp polyglop.png polyglopt.mp4
+cp polyglot.png ployglot.pdf
+```
+from the pdf i got to know that we nned to do steghide
+but we need to fid the jpg image to run it on se we unzip the polyglot and we get the image angri.jpg that we do steghide and put the password
+HideTheDuck123@
+to get the flag.
 
 
 
