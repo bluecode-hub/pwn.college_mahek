@@ -419,13 +419,9 @@ k = encrypt(inp)
 print("Key (for debug):", k)
  difference between them
  
- 
- 
- # decode_with_key.py
 enc = [16,49,14,21,7,48,49,15,6,48,44,10,12,49,20,0,23]
 key = 1
 while(key<100):
-   # replace with known key if you have it
  PRINTABLE_RANGE = range(32,127)
 
  decoded = []
